@@ -1,0 +1,9 @@
+/blog-admin-center/node_modules/**
+/blog-auth-center/node_modules/**
+/blog-web/node_modules/**
+
+/blog-admin-center/tests/**
+/blog-admin-center/dist/**
+/blog-auth-center/dist/**
+
+

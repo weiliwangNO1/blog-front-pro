@@ -1,0 +1,74 @@
+[
+  {
+    "name": "label",
+    "path": "/label",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\label\\\\index.vue",
+    "chunkName": "pages/label/index",
+    "_name": "_659c598c"
+  },
+  {
+    "name": "question",
+    "path": "/question",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\question\\\\index.vue",
+    "chunkName": "pages/question/index",
+    "_name": "_ebbd6524"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_1483d169"
+  },
+  {
+    "name": "article-edit",
+    "path": "/article/edit",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\article\\\\edit.vue",
+    "chunkName": "pages/article/edit",
+    "_name": "_47517942"
+  },
+  {
+    "name": "question-edit",
+    "path": "/question/edit",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\question\\\\edit.vue",
+    "chunkName": "pages/question/edit",
+    "_name": "_3c24701e"
+  },
+  {
+    "name": "article-id",
+    "path": "/article/:id?",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\article\\\\_id.vue",
+    "chunkName": "pages/article/_id",
+    "_name": "_0f1b15b2"
+  },
+  {
+    "name": "label-id",
+    "path": "/label/:id",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\label\\\\_id.vue",
+    "chunkName": "pages/label/_id",
+    "_name": "_49696218"
+  },
+  {
+    "name": "question-id",
+    "path": "/question/:id",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\question\\\\_id.vue",
+    "chunkName": "pages/question/_id",
+    "_name": "_da405954"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index-id",
+        "path": ":id?",
+        "component": "E:\\\\work\\\\blog-web\\\\blog-web\\\\pages\\\\index\\\\_id.vue",
+        "chunkName": "pages/index/_id",
+        "_name": "_55a44254"
+      }
+    ],
+    "_name": "_3ef0bd14"
+  }
+]

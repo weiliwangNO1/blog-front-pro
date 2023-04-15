@@ -1,0 +1,38 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "ArticleList": {
+    "description": "Auto imported from components/article/List.vue"
+  },
+  "LayoutFooter": {
+    "description": "Auto imported from components/layout/Footer.vue"
+  },
+  "LayoutHeader": {
+    "description": "Auto imported from components/layout/Header.vue"
+  },
+  "QuestionList": {
+    "description": "Auto imported from components/question/List.vue"
+  },
+  "UserEdit": {
+    "description": "Auto imported from components/user/Edit.vue"
+  },
+  "UserPassword": {
+    "description": "Auto imported from components/user/Password.vue"
+  },
+  "CommonAffix": {
+    "description": "Auto imported from components/common/Affix/index.vue"
+  },
+  "CommonComment": {
+    "description": "Auto imported from components/common/Comment/index.vue"
+  },
+  "CommonCommentList": {
+    "description": "Auto imported from components/common/Comment/List.vue"
+  },
+  "CommonDirectory": {
+    "description": "Auto imported from components/common/Directory/index.vue"
+  }
+}
